@@ -1,0 +1,110 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lightgreen;
+  font-family: "Indie Flower", cursive;
+}
+
+header {
+  width: 850px;
+  height: 332px;
+  box-sizing: border-box;
+  border: 5px lightgrey solid;
+  margin: auto;
+}
+
+.div1 {
+  width: 217px;
+  height: 195px;
+  box-sizing: border-box;
+  border: 2px lightgrey solid;
+  margin: 42px;
+  position: absolute;
+}
+
+#navigation {
+  color: sienna;
+  background-color: lightgreen;
+  float: unset;
+  margin: 170px;
+  width: 100px;
+  height: 150px;
+  list-style-type: none;
+  position: absolute;
+}
+
+h2 {
+  height: 50px
+  width: 15px;
+  margin: 50px;
+  right: 100px;
+}
+
+h3 {
+    position: relative; 
+    margin: 50px; 
+}
+
+p {
+  list-style-type: none;
+  display: inline-block;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  float: right;
+  margin: 59px;
+}
+
+button {
+  margin: auto;
+  padding: 0;
+  position: relative;
+  top: 16px;
+  right: -682px;
+  
+}
+
+.column1 {
+  width: 328px;
+  border: 5px whitesmoke solid;
+  height: 256px;
+  top: 50px;
+  position: relative;
+}
+
+.column2 {
+  width: 512px;
+  border: 5px whitesmoke solid;
+  height: 256px;
+  top: -665px;
+  position: relative;
+  margin: 232px;
+  left: 115px;
+}
+
+.Columns {
+  width: 850px;
+  margin: auto;
+}
+
+img {
+  width: 368px;
+  height: 244px;
+  top: -188px;
+  margin: -12px;
+  position: relative;
+}
+
+.Container {
+    position: relative;
+    top: -1160px; 
+    width: 497px; 
+    height: 140px; 
+    margin: 300px; 
+    right: -295px; 
+    box-sizing: content-box;
+    border: 2px whitesmoke dotted;
+}
